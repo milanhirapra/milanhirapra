@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 #### 📈 My GitHub Stats:
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=milanhirapra&theme=gotham&hide_border=true)](https://github.com/milanhirapra/github-readme-activity-graph)
+![Mine github activity graph](https://activity-graph.herokuapp.com/graph?username=milanhirapra&theme=gotham&hide_border=true)
 
 ![Mine github stats](https://github-readme-stats.vercel.app/api?username=milanhirapra&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&layout=default&hide=stars,contribs)
 
